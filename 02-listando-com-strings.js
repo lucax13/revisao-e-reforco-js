@@ -7,7 +7,7 @@ let bairro = "Itaquera";
 let estado = "SP";
 
 //concatenação
-let mensagem1 = "Meu nome é "+nome+" "+sobrenome+", tenho "+idade+" anos e moro em"+bairro+"/"+estado+"."; 
+let mensagem1 = "Meu nome é "+nome+" "+sobrenome+", tenho "+idade+" anos e moro em "+bairro+"/"+estado+"."; 
 
 console.log(mensagem1);
 // template string/literal
